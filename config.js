@@ -1,20 +1,17 @@
 const CONFIG = {
-    titleWeb: "Gửi crush của tớ",
-    introTitle: 'Crush yêu dấu',
-    introDesc: `Trái đất vốn lạ thường
-    Mà sao em cứ đi nhầm đường
-    Lạc vào tim anh lẻ loi
-    Đằng sau chữ yêu đây là thương`,
-    btnIntro: '^^HiHi^^',
-    title: 'Phải chăng em đã yêu ngay từ cái nhìn đầu tiên 🥰',
-    desc: 'Thoát web là chấp nhận yêu tớ rồi nhé!!!',
-    btnYes: 'Thích lắm <33',
-    btnNo: 'Không nha :3',
-    question: 'Trên thế giới hơn 7 tỉ người mà sao bạn lại yêu mình <3',
-    btnReply: 'Gửi cho bạn <3',
-    reply: 'Yêu thì yêu mà không yêu thì yêu <33333333',
-    mess: 'Mình biết mà 🥰. Yêu bạn nhiều nhiều 😘😘',
-    messDesc: 'Tối nay, mình qua đón đi chơi nha.',
-    btnAccept: 'Okiiiii lun <3',
-    messLink: 'https://facebook.com/dinhkaito' //link mess của các bạn. VD: /dinhkaito
+    titleWeb: "Gửi pé iu của anh",
+    introTitle: 'embe',
+    introDesc: `Nhấn dô i tràiiiiii chờ dì nũaaa`,
+    btnIntro: 'hì hì hì🥲',
+    title: 'Em coá yêu anh hămmmmm  🥰',
+    desc: 'Chấp mọi câu trả lời lun ó nhấn đâu hì nhấn liu liu liu',
+    btnYes: 'Dạ coá yêu chồng lắmmmm🥰',
+    btnNo: 'Hong đố em bấm được liuliuliuliu',
+    question: 'Muốn điiii đâu chơi trả lời mau lên *hihi có bất ngờ',
+    btnReply: 'Gửi cho anh',
+    reply: 'Khách sạn ạaaaaaa🥰🥰',
+    mess: 'Đi hì đii này em chọn ó nhoaaaa anh hăm coá biết âuu 😘😘',
+    messDesc: 'Nói ghiền đó đó lúm ròi mà hăm chịu đâuu hehehheheh đii thì điiii💗.',
+    btnAccept: 'Tiếp tục i còn mò',
+    messLink: 'https://gifft.me/o/l/s0ann97q3gg0kp5y3i5asiop' //link mess của các bạn. VD: /dinhkaito
 }
