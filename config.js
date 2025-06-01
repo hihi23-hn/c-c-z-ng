@@ -12,6 +12,6 @@ const CONFIG = {
     reply: 'Khách sạn ạaaaaaa🥰🥰',
     mess: 'Đi hì đii này em chọn ó nhoaaaa anh hăm coá biết âuu 😘😘',
     messDesc: 'Nói ghiền đó đó lúm ròi mà hăm chịu đâuu hehehheheh đii thì điiii💗.',
-    btnAccept: 'Tiếp tục i còn mò',
+    btnAccept: 'Tiếp tục i cưng còn mò',
     messLink: 'https://gifft.me/o/l/s0ann97q3gg0kp5y3i5asiop' //link mess của các bạn. VD: /dinhkaito
 }
